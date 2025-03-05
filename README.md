@@ -24,6 +24,8 @@ ChatBox is a web-based social media chat application built with Vue.js (**[front
 ## 🚀 Getting Started
 For proper operation, you must also download: **[ChatBox BACKEND](https://github.com/Xdellta/ChatBox-Backend.git)**
 
+<br>
+
 **1.** Clone the repository:
 ```sh
 git clone https://github.com/Xdellta/ChatBox-Frontend.git
