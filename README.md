@@ -1,6 +1,6 @@
 # ChatBox FRONTEND
 
-ChatBox is a web-based social media chat application built with Vue.js (**[frontend]()**) and Express.js (**[backend]()**). The project is educational in nature and demonstrates the use of WebSocket to handle real-time communication between client and server. In addition, the application includes a REST API implementation in Express.js and general support for Vue.js features. ChatBox features a futuristic UI/UX interface, combining modern design with smooth user interaction.
+ChatBox is a web-based social media chat application built with Vue.js (**[frontend](https://github.com/Xdellta/ChatBox-Frontend.git)**) and Express.js (**[backend](https://github.com/Xdellta/ChatBox-Backend.git)**). The project is educational in nature and demonstrates the use of WebSocket to handle real-time communication between client and server. In addition, the application includes a REST API implementation in Express.js and general support for Vue.js features. ChatBox features a futuristic UI/UX interface, combining modern design with smooth user interaction.
 
 <br>
 
@@ -21,5 +21,28 @@ ChatBox is a web-based social media chat application built with Vue.js (**[front
 
 <br>
 
-## Getting Started
-For proper operation, you must also download: **[ChatBox BACKEND]()**
+## 🚀 Getting Started
+For proper operation, you must also download: **[ChatBox BACKEND](https://github.com/Xdellta/ChatBox-Backend.git)**
+
+**1.** Clone the repository:
+```sh
+git clone https://github.com/Xdellta/ChatBox-Frontend.git
+```
+```sh
+cd ChatBox-Frontend
+```
+
+**2.** Install dependencies:
+```sh
+npm install
+```
+
+**3.** Compile and Hot-Reload for Development
+```sh
+npm run dev
+```
+
+**4.** Type-Check, Compile, and Minify for Production
+```sh
+npm run build
+```

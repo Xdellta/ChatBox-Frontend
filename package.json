@@ -27,5 +27,13 @@
   "description": "ChatBox is a web-based social media chat app built with Vue.js and Express.js, featuring real-time communication via WebSocket and a futuristic UI/UX.",
   "main": "index.js",
   "author": "Patryk Piotrowski",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xdellta/ChatBox-Frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xdellta/ChatBox-Frontend/issues"
+  },
+  "homepage": "https://github.com/Xdellta/ChatBox-Frontend#readme"
 }
