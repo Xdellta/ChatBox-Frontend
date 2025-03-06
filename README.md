@@ -34,15 +34,21 @@ git clone https://github.com/Xdellta/ChatBox-Frontend.git
 cd ChatBox-Frontend
 ```
 
+<br>
+
 **2.** Install dependencies:
 ```sh
 npm install
 ```
 
+<br>
+
 **3.** Compile and Hot-Reload for Development
 ```sh
 npm run dev
 ```
+
+<br>
 
 **4.** Type-Check, Compile, and Minify for Production
 ```sh
