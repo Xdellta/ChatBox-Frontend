@@ -8,7 +8,7 @@
   --color-background-primary: var(--color-white);
   --color-background-secondary: var(--color-white);
   --color-text-primary: var(--color-black);
-  --color-accent: var(--color-blue);
+  --color-accent-primary: var(--color-blue);
 
   --color-status-online: #88CD9B;
   --color-status-away: #EEAA41;
