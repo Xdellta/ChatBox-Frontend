@@ -36,21 +36,21 @@ cd ChatBox-Frontend
 
 <br>
 
-**2.** Install dependencies:
+**2.** Copy the `.env.example` file to `.env`, and then configure the contents:
+```sh
+cp .env.example .env
+```
+
+<br>
+
+**3.** Install dependencies:
 ```sh
 npm install
 ```
 
 <br>
 
-**3.** Compile and Hot-Reload for Development
+**4.** Compile and Hot-Reload for Development
 ```sh
 npm run dev
-```
-
-<br>
-
-**4.** Type-Check, Compile, and Minify for Production
-```sh
-npm run build
 ```
