@@ -2,18 +2,17 @@
 @import './reset.css';
 @import './fonts.css';
 
-body {
+html, body {
   height: 100dvh;
   width: 100%;
   font-family: "Nunito", sans-serif;
-  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.6;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--color-background-primary);
+  background-color: var(--color-background);
   color: var(--color-text-primary);
   overflow: hidden;
 }
@@ -23,7 +22,7 @@ body {
   height: 100%;
   position: relative;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }

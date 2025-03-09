@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 a {
@@ -13,4 +14,23 @@ a {
 
 ul, ol {
   list-style: none;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--color-input);
+  color: var(--color-text-primary);
+}
+
+input::placeholder {
+  color: var(--color-input-placeholder);
+}
+
+button {
+  border: none;
+  outline: none;
 }
