@@ -7,7 +7,7 @@
     width: 100%;
     height: 50px;
     background-color: var(--color-accent-primary);
-    color: var(--color-text-primary);
+    color: #FFFFFF;
     font-weight: 600;
     border-radius: 8px;
     transition: 0.2s ease-in-out;

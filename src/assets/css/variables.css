@@ -4,11 +4,15 @@
   --color-gray-700: #3B364A;
   --color-gray-600: #7D7987;
   --color-purple-500: #6955AF;
-  --color-purple-400: #B4AAD7;
+  --color-purple-400: #8871E4;
+  --color-white-200: #F2F2F2;
   --color-white: #FFFFFF;
 
 
   --color-background: var(--color-white);
+  --color-input: var(--color-white-200);
+  --color-input-placeholder: var(--color-gray-600);
+  --color-icon-primary: var(--color-gray-800);
   --color-text-primary: var(--color-black);
 
   --color-accent-primary: var(--color-purple-500);
